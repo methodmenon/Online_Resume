@@ -1,0 +1,44 @@
+html {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#the_look {
+	color: #CCCCCC;
+	background-color: #0099CC;
+	/*font-family: Courier;*/
+}
+
+.section {
+	/*font-family: Arial;*/
+}
+
+#name {
+	font-size: 20px;
+}
+
+#major {
+	font-weight: bold;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0066CC;
+	text-decoration: none;
+}
+
+.key {
+	/*font-family: Verdana;*/
+}
+
+
+
